@@ -18,3 +18,6 @@ ________________________________________________________________________________
 
 Projeto 1
 [Projeto de Sistema Bancário com Python](https://github.com/IsraelEvangelista/Python_Developer_DIO/blob/main/Projeto%201%20-%20Sistema%20Banc%C3%A1rio/PyBank.py)
+
+Projeto 2
+[Projeto Otimizando o Sistema Bancário com Funções Python](https://github.com/IsraelEvangelista/Python_Developer_DIO/blob/main/Projeto%202%20-%20Otimizando%20o%20Sistema%20Banc%C3%A1rio/README.md)
